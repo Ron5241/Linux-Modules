@@ -1,0 +1,16 @@
+#Ignoring the object files
+*.o
+*.ko
+
+#Ignoring the mod.c files
+*.mod.c
+
+#Ignoring .cmd files
+*.cmd
+
+#Ignoring .tmp_versions
+.tmp_versions/
+
+#Ignroing other specific files
+modules.order
+Module.symvers
