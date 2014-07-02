@@ -14,3 +14,6 @@
 #Ignroing other specific files
 modules.order
 Module.symvers
+
+#Ignoring temporary files
+*~
