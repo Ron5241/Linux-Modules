@@ -1,0 +1,13 @@
+#############################
+Installation Instructions
+#############################
+
+Each folder contains the module source code and
+the module Makefile. Enter the make command to
+begin the compilation process, and use insmod 
+and rmmod to load and unload the module from the
+kernel
+
+Note : Modules can only be loaded onto the kernels
+	   for which they have been build.(Values are
+	   checked from the vermagic.o object file)
